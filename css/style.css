@@ -47,11 +47,11 @@ nav ul li a{
     width: 29%;
     margin: auto;
 }
-div{
+div ul{
     list-style: none;
     padding: 0px;
 }
-ul li a{
+div ul li a{
     width: 60px;
     line-height: 40px;
     text-decoration: none;
